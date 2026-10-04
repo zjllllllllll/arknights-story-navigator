@@ -1,0 +1,4 @@
+interface:
+  display_name: "明日方舟剧情导航"
+  short_description: "先浏览目录与关卡概要，再读原文并沿新线索跨活动、档案和肉鸽检索"
+  default_prompt: "使用 $arknights-story-navigator，先定位相关资料和概要，再核对原文回答我的剧情问题。"

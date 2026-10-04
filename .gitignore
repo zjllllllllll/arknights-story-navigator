@@ -1,0 +1,28 @@
+# Python runtime and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local secrets
+.env
+.env.*
+
+# Downloaded corpora, generated indexes and archives are not part of the Skill
+.cache/
+.arknights-story-cache/
+cache/
+data/
+snapshots/
+supplements/
+*.db
+*.db-*
+*.sqlite*
+*.zip
+*.log
+
+# Evaluation materials must remain outside the public repository
+evals/
+测试集/
+测试结果/
+对比分析/
